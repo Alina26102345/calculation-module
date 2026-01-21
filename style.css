@@ -1,0 +1,9 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 30px;
+}
+
+.error {
+    color: red;
+    margin-top: 20px;
+}
